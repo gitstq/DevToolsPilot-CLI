@@ -1,0 +1,7 @@
+# DevToolsPilot-CLI 依赖
+# 核心功能零外部依赖，仅使用Python标准库
+python>=3.8
+
+# 可选依赖：WebSocket通信（推荐安装以获得更好的性能和稳定性）
+# pip install devtools-pilot-cli[websocket]
+# websockets>=10.0
